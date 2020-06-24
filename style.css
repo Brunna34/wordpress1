@@ -1,0 +1,41 @@
+/*
+theme name: Wordpress
+theme URL: http://localhost/Wordpress/
+description: Site para o curso de WP
+Author: Brunna
+Author URL: http://localhost/Wordpress/
+version: 1.0
+*/
+
+*
+  body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  html {
+    overflow-x: hidden;
+  }
+/*--header--*/   
+.nav-wrapper img
+{max-height:50px;
+text-align:center;
+max-width:80px;
+margin-left: 50%;
+margin-top: 10px;
+}
+
+.nome-empresa{
+font-size: 30px;
+font-family: 'Special Elite', cursive;
+}
+
+.navbar {
+font-size: 15px;}
+
+main img{
+    max-width: 500px;
+    max-height: 500px;
+   }
+   
+   
